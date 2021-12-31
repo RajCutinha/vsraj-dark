@@ -1,0 +1,21 @@
+{
+    "name": "vsraj-dark",
+    "displayName": "vsraj-dark",
+    "description": "dark-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vsraj-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vsraj-dark-color-theme.json"
+            }
+        ]
+    }
+}
