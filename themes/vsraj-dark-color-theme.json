@@ -47,6 +47,13 @@
     "tab.unfocusedInactiveForeground": "#c4c4c4",
     "tab.unfocusedInactiveBackground": "#1e1e1e",
     "tab.activeBorderTop": "#1e1e1e",
+    // Menu Bar
+    "menu.background": "#141414",
+    "menu.foreground": "#E2D5C2",
+    // Notification
+    "notifications.background": "#141414",
+    "notifications.foreground": "#E2D5C2",
+    "notificationCenter.border": "#4739A1",
     // Title Bar ---
     "titleBar.activeBackground": "#141414",
     "titleBar.inactiveBackground": "#141414",
